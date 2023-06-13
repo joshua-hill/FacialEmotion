@@ -8,6 +8,7 @@ Future Changes:
   Model Training:
   - Test new architectures
   - Batch the data using Data Loaders/Datasets instead of arrays so the training time decreases
+  
   Model Application:
   - Track the face using openCV so a higher quality image can be put into the model
   - Add real-time emotion recognition

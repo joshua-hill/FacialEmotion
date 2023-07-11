@@ -8,7 +8,6 @@ This program uses OpenCV to capture an image from your webcam. This image is the
 Future Changes:
   Model Training:
   - Test new architectures
-  - Batch the data using Data Loaders/Datasets instead of arrays so the training time decreases
   
   Model Application:
   - Track the face using openCV so a higher quality image can be put into the model

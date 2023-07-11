@@ -1,4 +1,4 @@
-# FacialEmotion
+# FacialEmotion - WIP
 
 In The .ipynb file, multiple various CNNs are trained and evaluated. There are 3 CNN architectures, and 3 transfer learning models (VGG16, ResNet v2, and EfficientNet). The model that had the highest accuracy is then downloaded. This model is then uploaded to the 'facial-recognition.py' file. 
 
